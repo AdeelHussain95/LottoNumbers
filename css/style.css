@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700|Source+Sans+Pro');
+
+* {
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    background-color: #ff3399;
+    color: fff;
+}
+#loto-heading{
+
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    font-family: 'Lato', sans-serif;
+}
+
+#loto-sub {
+    
+    text-align: center;
+    margin-top: 2rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.btn-container {
+
+    text-align: center;
+    margin-top: 1.5rem;
+    
+    
+    
+}
+button {
+
+    font-size: 25px;
+    padding: 35px;
+    border-radius: 100%;
+    background-color: rgba(255, 0, 242, 0.582);
+    border-color: rgb(95, 55, 55);
+    
+ }
+
+ .numbers-container,
+ .end-container {
+
+    text-align: center;
+    margin-top: 2.5rem;
+    font-family: 'Source Sans Pro', sans-serif;
+ }
+
+
+ #main {
+
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+
+ }
+
+ #bonus {
+
+    font-size: 1.5rem;
+ }
+
+ .end-container h5 {
+
+    font-size: 3.5rem;
+ }
